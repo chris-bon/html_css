@@ -1,16 +1,20 @@
-.blue {
-  background-color:blue;
-  height:200px;
+.blue1 {
+  background-color: blue;
+  height: 200px;
+}
+.blue2 {
+  background-color: blue;
+  height: 600px;
 }
 .red {
-  background-color:red;
-  height:200px;
+  background-color: red;
+  height: 200px;
 }
 .brown {
-  background-color:brown;
-  height:200px;
+  background-color: brown;
+  height: 200px;
 }
 .yellow {
-  background-color:yellow;
-  height:200px;
+  background-color: yellow;
+  height: 200px;
 }
